@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+#skills{
+	font-style: italic;
+	color: green
+}
+#projects{
+	font-style: italic;
+	color: grey
+}
